@@ -1,0 +1,8 @@
+openai-whisper
+SpeechRecognition
+scipy
+pyaudio
+argparse
+torch
+rich
+# git+https://github.com/huggingface/transformers.git
